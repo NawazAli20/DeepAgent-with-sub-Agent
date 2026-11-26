@@ -1,6 +1,8 @@
 # Build a Deep Agent with Specialized Sub-Agents
 [YouTube Video Lecture on Concept](https://youtu.be/pW93YApJUKw?si=v8c-sM3wirG3tF3P)
 
+[Youtube Video Lecture on Coding Demo](https://youtu.be/YgYsKqVbe0s?si=9rHF_nQk7OqgWw2U)
+
 ![Deep Agents — Sub-Agents and MCP](deep_agents_banner.png)
 
 Learn how to build an orchestrating **Deep Agent** using LangChain's Deep Agents library and the **Model Context Protocol (MCP)**. The agent delegates research and weather tasks to dedicated specialists, then combines their findings into a single response.
