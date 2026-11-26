@@ -1,4 +1,5 @@
 # Build a Deep Agent with Specialized Sub-Agents
+[YouTube Video Lecture on Concept](https://youtu.be/pW93YApJUKw?si=v8c-sM3wirG3tF3P)
 
 ![Deep Agents — Sub-Agents and MCP](deep_agents_banner.png)
 
