@@ -193,9 +193,6 @@ Concurrent tool discovery does not guarantee that all delegated subtasks run sim
 | Dependencies | Typically installed locally | Managed by the remote provider |
 | Network | Not required by the transport itself | Required for remote endpoints |
 
-## Lecture slides
-
-[Deep Agents lecture presentation](Deep_Agents_Lecture.pptx)
 
 ## References
 
